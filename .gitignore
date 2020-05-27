@@ -1,0 +1,9 @@
+*sublime*
+
+dev_tools/*.log
+target/
+logs/
+
+.DS_Store
+.idea/*
+.vscode/*
